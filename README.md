@@ -4,6 +4,7 @@ I'm a final-year Data Science engineering student with a passion for building in
 My journey in tech is driven by a curiosity for everything from foundational machine learning to the cutting edge of generative AI. I enjoy diving deep into the data, understanding the 'why' behind the numbers, and then building, training, and fine-tuning models to make accurate predictions and generate new insights.
 
 What I Do 💻
+
 Across my projects, I've had hands-on experience with:
 
 🧠 Deep Learning: Developing and fine-tuning neural networks for complex tasks, from classifying brain cancer scans with CNNs to enhancing audio data for speech emotion recognition using Diffusion Models.
