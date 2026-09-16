@@ -140,8 +140,6 @@ Clause-level contract comparison, human-in-the-loop, LLM fully local — no docu
 
 `timed SQL` &nbsp;·&nbsp; `dimensional modelling write-ups` &nbsp;·&nbsp; `streaming semantics — ordering, delivery guarantees, schema evolution, replay`
 
-<br/>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarahbouden&show_icons=true&hide=stars,issues&hide_border=true&theme=github_dark&hide_title=true" height="150"/>
+  <sub>Open to Data Engineering and Analytics Engineering roles in Europe · visa sponsorship required</sub>
 </p>
